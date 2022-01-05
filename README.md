@@ -1,7 +1,5 @@
-
 # ||||||||||
-# ||||||
-#
+
 ### Hi there ,my name is Hakim -aka [Jpnsamurai][website]
 
 ## i'm a self taught programmer, web developer, and I love Computers!
@@ -65,6 +63,8 @@ icon7 [link7]
 <br />
 
 <!-- This don't show up juts deffinitions: -->
+
+[mysite]: https://jpnsamurai.com
 [website]: https://jpnsamurai.com
 [website]: https://jpnsamurai.com
 [website]: https://jpnsamurai.com
@@ -75,4 +75,5 @@ icon7 [link7]
 [website]: https://jpnsamurai.com
 [website]: https://jpnsamurai.com
 [website]: https://jpnsamurai.com
-[website]: https://jpnsamurai.com
+
+
