@@ -1,6 +1,6 @@
 # ||||||||||
 
-### Hi there ,my name is Hakim , -aka [Jpnsamurai][website]
+### Hi there!! my name is Hakim , -aka [Jpnsamurai][website]
 
 ## I'm a self taught programmer, web developer, and I love Computers!
 
