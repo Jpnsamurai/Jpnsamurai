@@ -2,7 +2,7 @@
 
 ### Hi there ,my name is Hakim , -aka [Jpnsamurai][website]
 
-## i'm a self taught programmer, web developer, and I love Computers!
+## I'm a self taught programmer, web developer, and I love Computers!
 
 - current work [website]
 -
