@@ -67,7 +67,7 @@ icon7 [link7] -->
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][mysite]
 
-[<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg>][mysite]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/github.svg" />][mysite]
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][mysite]
 
