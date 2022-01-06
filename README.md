@@ -73,6 +73,9 @@ icon7 [link7] -->
 
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/flask.svg" />][mysite]
 [<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/csharp.svg" />][mysite]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/c.svg" />][mysite]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/typescript.svg" />][mysite]
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/linux.svg" />][mysite]
 
 <br />
 <br />
