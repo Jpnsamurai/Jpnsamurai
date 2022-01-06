@@ -91,4 +91,12 @@ icon7 [link7]
 [website]: https://jpnsamurai.com
 [website]: https://jpnsamurai.com
 
+[link1]: https://jpnsamurai.com
+[link2]: https://jpnsamurai.com
+[link3]: https://jpnsamurai.com
+[link4]: https://jpnsamurai.com
+[link5]: https://jpnsamurai.com
+[link6]: https://jpnsamurai.com
+[link7]: https://jpnsamurai.com
+
 
