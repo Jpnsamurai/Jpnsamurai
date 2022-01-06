@@ -32,13 +32,13 @@
 
 
 ### Languages / Tools :
-icon1 [link1]
+<!-- icon1 [link1]
 icon2 [link2]
 icon3 [link3]
 icon4 [link4]
 icon5 [link5]
 icon6 [link6]
-icon7 [link7]
+icon7 [link7] -->
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][mysite]
 
